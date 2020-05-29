@@ -10,7 +10,7 @@ Link to the dataset : https://www.kaggle.com/jvanelteren/boardgamegeek-reviews#2
 
 1.  Installing Python 3
 2.  Installing pip 3
-3.  Installing the required python libraries using pip
+3.  Installing the required python libraries using pip - specified in the requirements.txt file
 4.  Install Jupyter Notebook
 
 ### Implementation
